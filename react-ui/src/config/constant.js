@@ -1,0 +1,1 @@
+export const API_SERVER = "https://api-server-nodejs.appseed.us/api/";
